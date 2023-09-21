@@ -40,7 +40,7 @@ The size blew up after `4.6` due to `900GB` of DTED which was added to WebTAK.
 
 ## Requirements
 
-- Debian-based operating system, such as Debian or Ubuntu
+- **Debian-based operating system**, such as Debian or Ubuntu
 - Docker with `compose` (https://docs.docker.com/engine/install/ubuntu/ or https://docs.docker.com/engine/install/debian/)
 - A TAK server release
 - 2GB memory
@@ -49,7 +49,7 @@ The size blew up after `4.6` due to `900GB` of DTED which was added to WebTAK.
 
 ## Setup Video 
 
-Please use the below link to see a short video on a complete setup of TAK Server.
+Please use CloudRF's below link to see a short video on a complete setup of TAK Server.
 
 [TAK Server install (Docker)](https://www.youtube.com/watch?v=h4PA9NN-cDk)
 
